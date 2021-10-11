@@ -2,11 +2,11 @@
 
 # Created by: Haokai Li
 # Created on: Oct 2021
-# This Program is about nested loops
+# This Program is about loop and if
 
 
 def main():
-    # This function is about nested loops
+    # This function is about loop and if
     loop_number = 0
 
     # process
